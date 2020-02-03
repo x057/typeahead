@@ -1,0 +1,1 @@
+export {default, NameList} from './Component';
